@@ -1,0 +1,6 @@
+
+gnupg==2.3.1
+cryptography==42.0.5
+sudo apt install python3 python3-pip
+sudo apt install gnupg
+sudo apt install python3-tk
